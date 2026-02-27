@@ -16,12 +16,6 @@ Hi I'm Noe<br>Informatics Student | Cybersecurity Enthusiast | Full-stack Explor
 ![](https://nirzak-streak-stats.vercel.app/?user=codeferrel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeferrel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
-
 [![](https://visitcount.itsvg.in/api?id=codeferrel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-,, nah bro disini menurut kamu dibagian tech , jika terlalu banyak hapus saja beberapa tecnologi yang kurang pentiung , tapi klo yang penting" jangan yah bro hehehe , dan buat lebih rapi dan professional kalo bisa wkwkwkwkw
