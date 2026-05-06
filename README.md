@@ -34,9 +34,6 @@ Hi, I'm **Noe**!
 </p>
 
 ---
-
-### 🛠️ Programming Frameworks & Tools
-### 🛡️ Security Stack & Tools
 ### 🛡️ Security Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
