@@ -3,6 +3,17 @@
 Hi I'm Noe  
 Informatics Student | Cybersecurity Enthusiast |
 
+## 👨‍💻 About Me
+
+Hi, I'm **Noe**! 
+
+🔍 Focus: Cybersecurity & Pentesting.
+
+🚀 Passion: Emerging Tech & Security Frameworks.
+
+💡 Mindset: Stay curious, stay secure.
+
+---
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-ferreira-775419365/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/noelferreira04) 
