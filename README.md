@@ -1,9 +1,6 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Securing%20Systems-00FF00?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/Level-Informatics%20Student-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=kali-linux" />
-  <img src="https://img.shields.io/github/languages/top/codeferrel/codeferrel?style=flat-square&color=yellow" />
 </p>
 
 # 🛡️ Information Security Profile
