@@ -24,7 +24,11 @@ Hi, I'm **Noe**!
 ## 📊 Technical Metrics
 
 ### 🏆 Achievement Showcase
-<img src="https://github-readme-stats.vercel.app/api/thunder-trophies?username=codeferrel&theme=dark&hide_border=true" width="100%" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codeferrel&theme=carbon&no-frame=true&margin-w=15" alt="github trophy" />
+  </a>
+</p>
 
 ### 📈 Contribution Analytics
 <p align="center">
