@@ -37,17 +37,18 @@ Hi, I'm **Noe**!
 
 ### 🛠️ Programming Frameworks & Tools
 ### 🛡️ Security Stack & Tools
+### 🛡️ Security Stack & Tools
 <p align="left">
-  <!-- Discovery & Recon -->
   <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuclei-000000?style=for-the-badge&logo=projectdiscovery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuclei-2D333B?style=for-the-badge&logo=target&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   
-  <!-- Intercept & Analysis -->
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <!-- Vulnerability Management -->
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Nessus-002F6C?style=for-the-badge&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=johntheripper&logoColor=white" /> <!-- SIEM & EDR -->
+  <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
 </p>
