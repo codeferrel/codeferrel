@@ -20,14 +20,11 @@ Hi, I'm **Noe**!
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@noelferreira04)
 
 ---
-
 ## 📊 Technical Metrics
 
-### 🏆 Achievement Showcase
+### 🐍 Contribution Journey
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codeferrel&theme=carbon&no-frame=true&margin-w=15" alt="github trophy" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=react&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ### 📈 Contribution Analytics
