@@ -1,15 +1,16 @@
 # 🛡️ Information Security Profile
 
-Hi, I'm **Noe Ferreira** `Informatics Student | Cybersecurity Enthusiast | 
+Hi, I'm **Noe Ferreira** `Informatics Student | Cybersecurity Enthusiast | Junior Pentester`
 
 ---
 
 ## 📑 Executive Summary
 
 Hi, I'm **Noe**! 
-**🎯 Focus:** Offensive Security & Network Penetration Testing.
-**⚡ Passion:** Threat Intelligence & Security Automation.
-**🧠 Mindset:** Continuous Learning in a Zero-Trust World.
+
+* **🎯 Focus:** Offensive Security & Network Penetration Testing.
+* **⚡ Passion:** Threat Intelligence & Security Automation.
+* **🧠 Mindset:** Continuous Learning in a Zero-Trust World.
 
 ---
 
@@ -23,31 +24,33 @@ Hi, I'm **Noe**!
 ## 📊 Technical Metrics
 
 ### 🏆 Achievement Showcase
-![](https://github-readme-stats.vercel.app/api/mastercard?username=codeferrel&theme=tokyonight&margin-w=15)
+<img src="https://github-readme-stats.vercel.app/api/thunder-trophies?username=codeferrel&theme=dark&hide_border=true" width="100%" />
 
 ### 📈 Contribution Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeferrel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=codeferrel&theme=tokyonight&hide_border=false" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeferrel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=react&hide_border=true&background=0D1117" height="150" alt="Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeferrel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyonight&hide_border=false" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeferrel&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="165" alt="Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=react&bg_color=0D1117&hide_border=true" height="165" alt="Activity" />
 </p>
 
 ---
 
 ### 🛠️ Programming Frameworks & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-FF4400?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF4400?style=for-the-badge&logo=metasploit&logoColor=white" />
 </p>
 
+<br />
+
 <p align="right">
-  <font size="2">Profile Visitors: </font>
-  <img src="https://visitcount.itsvg.in/api?id=codeferrel&icon=5&color=1" align="center" />
+  <code>Profile Visitors:</code>
+  <img src="https://visitcount.itsvg.in/api?id=codeferrel&icon=5&color=0" align="center" />
 </p>
