@@ -39,22 +39,20 @@ Hi, I'm **Noe**!
 ### 🛡️ Security Stack & Tools
 ### 🛡️ Security Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuclei-2D333B?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Nessus-002F6C?style=for-the-badge&logo=tenable&logoColor=white" />
-  <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=flat-square&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF4400?style=flat-square&logo=metasploit&logoColor=white" />
 </p>
 
-<br />
 
+<br />
 <p align="right">
   <code>Systems Online:</code>
   <img src="https://visitcount.itsvg.in/api?id=codeferrel&icon=5&color=0" align="center" />
