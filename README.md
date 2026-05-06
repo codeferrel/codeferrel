@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Noe%20Ferreira&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Banner" width="100%">
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Securing%20Systems-00FF00?style=flat-square&logo=target" />
