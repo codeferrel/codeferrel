@@ -39,21 +39,13 @@ Hi, I'm **Noe**!
 ### 🛡️ Security Stack & Tools
 ### 🛡️ Security Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=flat-square&logo=crowdstrike&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-FF4400?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrowdStrike-ED1C24?style=for-the-badge&logo=crowdstrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
-
-<br />
-<p align="right">
-  <code>Systems Online:</code>
-  <img src="https://visitcount.itsvg.in/api?id=codeferrel&icon=5&color=0" align="center" />
-</p>
