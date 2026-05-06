@@ -1,3 +1,14 @@
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Noe%20Ferreira&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="Banner" width="100%">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Securing%20Systems-00FF00?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/Level-Informatics%20Student-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square&logo=kali-linux" />
+  <img src="https://img.shields.io/github/languages/top/codeferrel/codeferrel?style=flat-square&color=yellow" />
+</p>
+
 # 🛡️ Information Security Profile
 
 Hi, I'm **Noe Ferreira** `Informatics Student | Cybersecurity Enthusiast | Junior Pentester`
@@ -20,14 +31,9 @@ Hi, I'm **Noe**!
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@noelferreira04)
 
 ---
+
 ## 📊 Technical Metrics
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=react&bg_color=0D1117&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</p>
-
-### 📈 Contribution Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codeferrel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=react&hide_border=true&background=0D1117" height="150" alt="Streak" />
@@ -52,6 +58,6 @@ Hi, I'm **Noe**!
 <br />
 
 <p align="right">
-  <code>Profile Visitors:</code>
+  <code>Systems Online:</code>
   <img src="https://visitcount.itsvg.in/api?id=codeferrel&icon=5&color=0" align="center" />
 </p>
