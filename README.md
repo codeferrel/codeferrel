@@ -1,6 +1,6 @@
 # 🛡️ Information Security Profile
 
-Hi, I'm **Noe Ferreira** `Informatics Student | Cybersecurity Enthusiast | Junior Pentester`
+Hi, I'm **Noe Ferreira** `Informatics Student | Cybersecurity Enthusiast |
 
 ---
 
