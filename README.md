@@ -1,6 +1,6 @@
 # 🛡️  Profile Information
 
-Hi, I'm **Noe Ferreira Informatics Student | Cybersecurity Enthusiast |
+Hi, I'm *Noe Ferreira 'Informatics Student | Cybersecurity Enthusiast |
 
 ---
 
