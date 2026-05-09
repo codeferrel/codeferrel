@@ -1,16 +1,13 @@
-# 🛡️ Information Security Profile
+# 🛡️  Profile Information
 
-Hi, I'm **Noe Ferreira** `Informatics Student | Cybersecurity Enthusiast |
+Hi, I'm **Noe Ferreira Informatics Student | Cybersecurity Enthusiast |
 
 ---
 
 ## 📑 Executive Summary
-
-🎯 Focus: Network Penetration Testing.<br />
+🎯 Focus: Penetration Testing.<br />
 ⚡ Interest: Threat Intelligence & Automation.<br />
 📖 Learning: Building a security mindset.<br />
-
----
 
 ### 🌐 Digital Presence
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noe-ferreira-775419365/) 
