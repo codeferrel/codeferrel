@@ -6,8 +6,6 @@ Hi, I'm **Noe Ferreira** `Informatics Student | Cybersecurity Enthusiast |
 
 ## 📑 Executive Summary
 
-Hi, I'm **Noe**! <br />
-
 🎯 Focus: Network Penetration Testing.<br />
 ⚡ Interest: Threat Intelligence & Automation.<br />
 📖 Learning: Building a security mindset.<br />
