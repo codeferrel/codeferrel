@@ -4,32 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Penetration+Testing;Threat+Intelligence;Ethical+Hacking" />
 
-<p>
-  <a href="https://github.com/codeferrel">
-    <img src="https://img.shields.io/github/followers/codeferrel?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117" />
-  </a>
+<br/>
 
-  <a href="https://github.com/codeferrel">
-    <img src="https://img.shields.io/github/stars/codeferrel?affiliations=OWNER&style=for-the-badge&color=00F7FF&labelColor=0D1117" />
-  </a>
-</p>
+<a href="https://github.com/codeferrel">
+<img src="https://img.shields.io/github/followers/codeferrel?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
+</a>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-<br/><br/>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<a href="https://github.com/codeferrel">
+<img src="https://img.shields.io/github/stars/codeferrel?affiliations=OWNER&style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
+</a>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -57,13 +46,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeferrel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeferrel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeferrel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeferrel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -73,7 +62,7 @@
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF"/>
 
 </div>
 
@@ -95,7 +84,7 @@
 
 ### 💻 Programming & Environment
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,mysql,linux,bash,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,mysql,linux,bash,git,github,vscode,docker"/>
 
 </div>
 
@@ -121,6 +110,6 @@ Learning With:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=codeferrel&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=codeferrel&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
 
 </div>
