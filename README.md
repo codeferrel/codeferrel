@@ -2,9 +2,9 @@
 
 # 🛡️ Noe Ferreira
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Penetration+Testing;Threat+Intelligence;Ethical+Hacking" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Cybersecurity+Enthusiast;Penetration+Testing;Threat+Intelligence;Ethical+Hacking" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/codeferrel">
 <img src="https://img.shields.io/github/followers/codeferrel?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
@@ -45,9 +45,10 @@
 # 📊 GitHub Analytics
 
 <div align="center">
+
 <br/><br/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
@@ -57,7 +58,7 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF"/>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF"/>
 
 </div>
 
@@ -69,15 +70,19 @@
 
 ### 🛡️ Cyber Security Tools
 
+<br/>
+
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 ### 💻 Programming & Environment
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,mysql,linux,bash,git,github,vscode,docker"/>
 
