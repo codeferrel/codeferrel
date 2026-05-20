@@ -2,7 +2,7 @@
 
 # 🛡️ Noe Ferreira
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Informatics+Student+Cybersecurity+Enthusiast;Ethical+Hacking" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Informatics+Student|+Cybersecurity+Enthusiast;Ethical+Hacking" />
 
 <br/><br/>
 
