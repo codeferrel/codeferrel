@@ -98,13 +98,13 @@ Focus:
   - Bug Bounty Hunting
   - Automation with Python
   - Advanced OSINT Techniques
-
+----
 Learning With:
   - TryHackMe
   - Cisco
   - PortSwigger
   - MerdekaSiber
----
+----
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=codeferrel&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
