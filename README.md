@@ -105,8 +105,4 @@ Learning With:
   - PortSwigger
   - MerdekaSiber
 ----
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=codeferrel&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-
-</div>
