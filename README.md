@@ -48,19 +48,23 @@
 
 <br/><br/>
 
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codeferrel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeferrel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br/><br/>
+
+<img width="99%" src="https://streak-stats.demolab.com?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 Contribution Graph
 
 <div align="center">
 
-<br/><br/>
-
-<img width="99%" src="https://streak-stats.demolab.com?user=codeferrel&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF"/>
 
 </div>
 
