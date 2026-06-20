@@ -89,7 +89,7 @@ Focus:
 ----
 Learning With:
   - TryHackMe
-  - Cisco
+  - Cisco Networking Academy
   - PortSwigger
   - MerdekaSiber
 ----
