@@ -38,13 +38,19 @@
 
 ---
 
+#📈 Contribution Graph
+
 # 📈 Contribution Graph
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF" alt="Codeferrel Contribution Graph" />
+</p>
+---
 
-<div align="center">
+# 🛠️ Security & Dev Stack
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF"/>
-
-</div>
+<p align="center">
+  <!-- Tambahkan ikon/content dev stack kamu di sini -->
+</p>
 
 ---
 
