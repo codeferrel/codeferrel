@@ -1,88 +1,53 @@
 <div align="center">
 
-# 🛡️ Noe Ferreira
+# Noe Ferreira
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Informatics%20Student+Cybersecurity%20Enthusiast;Ethical%20Hacking" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://github.com/codeferrel">
-  <img src="https://img.shields.io/github/followers/codeferrel?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117" alt="Followers"/>
-</a>
-
-<a href="https://github.com/codeferrel">
-  <img src="https://img.shields.io/github/stars/codeferrel?affiliations=OWNER&style=for-the-badge&color=00F7FF&labelColor=0D1117" alt="Stars"/>
-</a>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Informatics+Student;Cybersecurity+Enthusiast;Ethical+Hacking" alt="Typing SVG" />
+<br/>
 
 <a href="https://www.linkedin.com/in/noeferreira">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://www.instagram.com/noelferreira04">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
 <a href="https://tryhackme.com/p/noelferreira">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
 </a>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeferrel&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F7FF&point=FFFFFF&color=00F7FF" alt="Codeferrel Contribution Graph" />
-</p>
-
----
-
-# 🛠️ Security & Dev Stack
+### 🛡️ Security Tools
 
 <div align="center">
 
-### 🛡️ Cyber Security Tools
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+<img src="https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
-<img src="https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Nmap"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+### 💻 Languages
 
-<br/><br/><br/>
+<div align="center">
 
-### 💻 Programming & Environment
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,mysql,linux,bash,git,github,vscode,docker" alt="Dev Stack"/>
+<img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ and Python"/>
 
 </div>
 
 ---
 
-# 🧠 Current Focus
+### 🧠 Current Focus
 
-```yaml
-Focus:
-  - Penetration Testing (Web & Network)
-  - Bug Bounty Hunting
-  - Automation with Python
-  - Advanced OSINT Techniques
----
-Learning With:
-  - TryHackMe
-  - Cisco Networking Academy
-  - PortSwigger
-  - MerdekaSiber
+- Penetration Testing (Web & Network)
+- Bug Bounty Hunting
+- Automation with Python
+- Advanced OSINT Techniques
+
+### 📚 Learning With
+
+TryHackMe · Cisco Networking Academy · PortSwigger · MerdekaSiber
