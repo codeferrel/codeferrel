@@ -15,9 +15,11 @@
 <a href="https://tryhackme.com/p/0xnoel">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
 </a>
+
 </div>
 
 ---
+
 ### 🛡️ Security Tools
 
 <div align="center">
@@ -29,16 +31,24 @@
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
 
 </div>
+
 ### 💻 Languages
+
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=cpp,python" alt="C++ and Python"/>
 
 </div>
+
 ---
+
 ### 🧠 Current Focus
+
 - Penetration Testing (Web & Network)
 - Bug Bounty Hunting
 - Automation with Python
 - Advanced OSINT Techniques
+
 ### 📚 Learning With
+
 TryHackMe · Cisco Networking Academy · PortSwigger · MerdekaSiber
