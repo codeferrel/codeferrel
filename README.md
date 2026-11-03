@@ -41,7 +41,6 @@
 </div>
 
 ---
-
 ### 🧠 Current Focus
 
 - Penetration Testing (Web & Network)
